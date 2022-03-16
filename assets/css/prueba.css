@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  header{
+    font-family: Helvetica;
+    width: 70vw;
+    margin: 0 auto;
+  }
+  ul{
+    list-style: none;
+  }
+  #menu li>a{
+    background-color: rgb(38, 219, 83);
+    border-color: darkblue;
+    border-style: solid;
+    color: white;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    min-width: 100px;
+  }
+  #menu li>a:hover{
+    color: rgb(248, 120, 0);
+    background-color: #eaeaea;
+  }
+  #menu>li{
+    float: left;
+    text-align:center
+  }
+  #menu>li>ul{
+    display: none;
+  }
+  #menu>li:hover>ul {
+    display:block;
+  }

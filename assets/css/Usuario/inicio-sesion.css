@@ -1,0 +1,34 @@
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+    background-size: contain;
+    background-position: center;
+    background-repeat: repeat;
+    }
+
+.form-ingresar{
+    width: 22vw;
+    height: 20vh;
+    background: turquoise;
+    margin: auto;
+    margin-top: 60px;
+    box-shadow: 7px 13px 37px #017bab;
+    padding: 20px 30px;
+    border-top: 4px solid #017bab;
+    color: rgb(61, 34, 34);
+}
+
+.controls {
+    width: 200px;
+    border: 1px solid #017bab;
+    margin-bottom: 30px;
+    padding: 11px 10px;
+    background: rgb(90, 220, 243);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.boton {
+    text-align: center;
+}

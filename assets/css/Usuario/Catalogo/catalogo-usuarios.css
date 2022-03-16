@@ -1,0 +1,61 @@
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+    background: url( /img/background-fondo-veterinaria-el-toro-pet-shop-colombia.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: repeat;
+    }
+
+
+.titulo{
+font-size: 30px;
+padding: 20px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+color:white;
+background-color: black;
+}
+
+.boton1{
+    box-shadow: 4px 4px 2px 2px #7e7e7e;
+    background-color:#000000;
+    border-radius:60px;
+    display:flex;
+    cursor:pointer;
+    font-size: 30px;
+    width: 15%;
+    margin-left: 10%;
+    margin-bottom: 30px;
+}   
+
+.ingresar{
+background-color:#000000;
+font-size:150px;
+width: 100%;
+height: 30%;
+margin-left: 30%;
+margin-bottom: 40px;
+}
+
+a {
+font-size: 20px;
+font-family: Arial;
+text-align: center;
+color: rgb(255, 255, 255); 
+text-decoration: none;
+padding: 10px;
+}
+
+body {
+background-color: rgb(224, 64, 176);
+}
+
+.textofinal{
+margin-top: 5%;    
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+font-weight: bold;
+}

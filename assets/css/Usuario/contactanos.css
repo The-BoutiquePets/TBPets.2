@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+    background-size: cover; /*para que el fondo no se distorcione(cover)*/
+    background-position: center;
+    background-repeat: repeat;
+    }
+.contacto {
+    width: 5vw;
+   height: 10vh;
+
+}
+
+.h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
